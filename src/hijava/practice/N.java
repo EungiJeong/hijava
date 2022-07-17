@@ -2,6 +2,7 @@ package hijava.practice;
 
 public class N {
 	
+	//git applied? (test)
 	int x = 10;
 	int y = 20;
 	
